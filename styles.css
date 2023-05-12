@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;;
+    text-align: center;
+}
+
+.display-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 205px;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
